@@ -1,0 +1,2 @@
+# MovieRecommender
+基于TensorFlow的电影推荐系统，使用item2vec算法得到相似电影推荐结果，使用双塔DNN模型+Faiss技术得到用户个性化推荐电影结果
